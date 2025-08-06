@@ -1,0 +1,1001 @@
+Age,Gender,Department,Seniority,MonthlyHours,JobSatisfaction,Salary,RemoteWork,StressLevel,PerformanceRating,DistanceFromHome,YearsAtCompany,Burnout
+52,Female,Operations,Senior,199,High,86947,1,Low,Outstanding,28,5,No
+38,Male,IT,Mid-level,118,High,49133,4,Low,Outstanding,23,3,No
+31,Male,Marketing,Senior,153,Medium,15692,2,Very High,Excellent,45,7,Yes
+44,Male,Operations,Senior,126,High,38926,5,Low,Outstanding,40,3,No
+42,Female,IT,Senior,143,Low,83984,3,Very High,Low,44,5,No
+46,Female,Marketing,Junior,100,Very High,53390,2,Very High,Low,22,7,No
+34,Female,HR,Junior,131,Very High,59593,4,Medium,Excellent,24,3,No
+34,Male,IT,Mid-level,198,Low,90609,1,Low,Good,26,2,No
+47,Male,Sales,Mid-level,192,Very High,20209,2,Very High,Excellent,30,6,Yes
+59,Female,IT,Senior,180,Very Low,21533,2,Very High,Low,33,8,Yes
+47,Male,IT,Senior,176,Low,101597,5,Low,Good,16,4,No
+26,Male,Marketing,Senior,183,High,22211,3,Low,Outstanding,22,9,Yes
+45,Male,HR,Mid-level,119,Low,19927,3,Very High,Low,49,8,No
+25,Male,Sales,Junior,193,Medium,92463,1,Medium,Excellent,43,7,Yes
+47,Female,Operations,Junior,134,High,34594,4,High,Excellent,18,7,No
+53,Male,Operations,Senior,198,Medium,89852,1,Very Low,Outstanding,7,3,Yes
+25,Male,IT,Senior,200,High,92713,2,Low,Good,26,6,Yes
+44,Male,Marketing,Senior,189,Very High,91382,2,Very High,Excellent,8,5,Yes
+56,Male,Marketing,Senior,177,Low,22933,3,Medium,Outstanding,6,1,No
+35,Female,Operations,Mid-level,116,Very Low,50696,4,Very High,Excellent,30,3,No
+45,Female,Sales,Junior,117,High,75449,5,Very High,Good,39,1,No
+48,Male,HR,Senior,144,High,77616,4,Low,Outstanding,23,4,No
+50,Male,Sales,Mid-level,192,Medium,21089,2,Low,Good,32,3,Yes
+51,Male,HR,Senior,183,Very High,71548,5,Very High,Outstanding,22,4,No
+39,Male,Operations,Senior,152,Medium,41123,4,High,Outstanding,42,9,No
+38,Male,HR,Junior,190,Medium,22797,4,Very High,Outstanding,43,3,No
+26,Male,Marketing,Senior,181,Very High,65013,5,Medium,Excellent,45,6,No
+60,Female,IT,Junior,177,Very Low,23346,2,Low,Low,9,6,Yes
+30,Male,IT,Junior,174,Medium,100414,4,Medium,Low,31,7,No
+44,Female,Operations,Junior,100,Medium,43672,5,Very High,Excellent,7,9,No
+32,Female,Marketing,Mid-level,157,High,32653,2,Low,Low,9,7,Yes
+41,Male,Sales,Mid-level,125,Very High,59556,5,High,Excellent,13,1,No
+27,Female,Marketing,Junior,119,Low,36140,5,Medium,Outstanding,3,8,No
+48,Female,IT,Senior,196,Very Low,16184,4,Very High,Outstanding,35,5,No
+37,Female,IT,Junior,119,Very Low,44493,2,High,Low,33,9,No
+32,Female,Marketing,Senior,158,Very High,59148,4,Medium,Outstanding,21,5,No
+49,Female,Marketing,Junior,174,High,39846,1,High,Good,31,5,No
+25,Female,IT,Senior,150,High,32195,1,Very High,Good,34,2,Yes
+43,Male,Sales,Mid-level,104,Very High,15606,2,Very High,Low,32,3,No
+51,Female,Operations,Senior,164,High,18956,5,Very High,Low,35,9,No
+30,Female,Operations,Junior,116,Very Low,26555,4,Very High,Excellent,15,7,No
+31,Female,Marketing,Mid-level,121,Very Low,28690,4,Very High,Outstanding,32,1,No
+58,Male,Operations,Senior,197,Low,73502,2,Medium,Good,6,3,Yes
+37,Female,IT,Senior,150,Very High,58849,2,High,Low,45,2,Yes
+40,Male,IT,Senior,202,Medium,41347,1,Medium,Excellent,21,1,No
+59,Female,Marketing,Senior,167,Medium,64056,3,Very High,Good,33,9,Yes
+27,Male,Marketing,Senior,168,Low,78851,2,Very High,Good,32,8,Yes
+25,Male,Marketing,Mid-level,110,Low,91502,3,Low,Excellent,19,5,Yes
+29,Female,Sales,Mid-level,155,High,96418,2,Medium,Low,33,2,Yes
+27,Female,Operations,Mid-level,150,Low,80211,5,Low,Outstanding,28,1,No
+52,Male,Marketing,Mid-level,120,Low,51850,5,High,Outstanding,31,7,No
+41,Female,HR,Junior,198,Medium,93545,1,Very High,Excellent,21,2,No
+49,Male,HR,Mid-level,175,High,42843,1,Low,Good,34,1,Yes
+57,Male,IT,Senior,135,Low,72320,3,Medium,Excellent,15,2,No
+33,Male,Operations,Senior,118,Low,39793,2,Very High,Low,14,7,Yes
+59,Male,Marketing,Mid-level,159,High,54516,4,Medium,Outstanding,19,7,No
+37,Male,HR,Senior,170,Very High,32857,1,High,Excellent,43,6,Yes
+54,Female,Operations,Mid-level,146,High,29627,4,High,Excellent,15,5,No
+38,Male,IT,Senior,180,Medium,76822,4,Low,Excellent,6,3,No
+31,Male,Sales,Junior,125,Very High,94101,2,Medium,Excellent,9,3,No
+37,Female,Operations,Junior,139,Very Low,62248,3,Very High,Low,37,9,Yes
+46,Male,Operations,Mid-level,104,High,65798,2,Low,Good,20,4,No
+44,Female,Sales,Mid-level,120,Medium,54116,1,High,Low,34,9,Yes
+39,Female,Operations,Mid-level,177,Very High,90318,4,Very High,Excellent,38,4,No
+41,Female,IT,Senior,113,High,97902,2,Very High,Excellent,26,2,No
+47,Male,IT,Mid-level,132,Low,38557,2,Very Low,Good,18,4,No
+49,Male,Sales,Junior,183,High,86334,2,Very Low,Good,28,6,No
+48,Male,Marketing,Senior,114,Very Low,85163,1,Medium,Outstanding,9,6,Yes
+52,Female,HR,Mid-level,192,High,93002,3,Very High,Low,32,5,Yes
+38,Male,Marketing,Senior,107,Very High,52614,2,Medium,Outstanding,6,1,Yes
+24,Female,Operations,Senior,140,Very High,22720,1,Low,Good,14,3,Yes
+48,Male,HR,Mid-level,118,High,67608,4,Low,Outstanding,28,5,No
+30,Female,Sales,Senior,145,Very High,82095,5,Very High,Outstanding,24,6,No
+32,Male,Sales,Junior,127,Low,94694,1,Very High,Good,13,1,Yes
+47,Male,HR,Junior,190,High,102593,5,Medium,Excellent,43,9,No
+24,Male,IT,Senior,177,Low,50892,2,High,Good,12,3,Yes
+31,Female,HR,Mid-level,114,Low,87242,2,Very High,Excellent,19,3,Yes
+47,Female,Operations,Senior,198,Medium,92606,1,Very High,Good,21,2,Yes
+34,Male,IT,Junior,146,High,10924,5,Very Low,Excellent,27,8,No
+40,Male,Sales,Senior,100,Very High,61322,2,Low,Good,19,3,No
+31,Female,HR,Senior,166,Low,41478,4,Very High,Good,24,6,No
+58,Female,Marketing,Junior,123,Medium,81042,3,Very High,Excellent,26,2,Yes
+58,Female,Marketing,Senior,126,High,56418,3,Very High,Low,45,7,No
+56,Male,Operations,Senior,139,High,72217,2,Very Low,Good,28,4,No
+28,Female,Marketing,Mid-level,162,Very Low,95846,5,Very High,Outstanding,46,9,No
+51,Male,HR,Mid-level,160,Very Low,88762,2,Very Low,Low,18,9,Yes
+30,Female,HR,Junior,135,Low,21781,5,Very High,Excellent,44,7,No
+32,Male,Marketing,Junior,197,Very Low,20515,4,Medium,Good,36,8,No
+31,Female,HR,Junior,192,Low,51133,5,High,Low,42,3,No
+35,Female,Operations,Mid-level,123,Very High,92508,2,Very High,Outstanding,29,5,Yes
+57,Female,IT,Junior,133,Low,86946,4,Medium,Good,17,2,No
+56,Female,Operations,Junior,103,Very Low,95058,1,Very High,Excellent,4,7,Yes
+46,Female,Operations,Junior,166,Very High,24095,3,Medium,Low,44,8,No
+47,Male,HR,Mid-level,133,Very Low,98583,2,Medium,Excellent,45,9,Yes
+60,Female,IT,Senior,166,Low,35470,2,Low,Outstanding,29,7,Yes
+58,Female,HR,Junior,148,Medium,53129,2,Low,Excellent,4,8,Yes
+45,Female,Sales,Senior,186,High,23531,4,Medium,Outstanding,10,9,No
+50,Male,HR,Junior,152,Very Low,52038,1,Very Low,Good,25,6,Yes
+58,Female,HR,Senior,122,Low,97939,5,High,Outstanding,31,2,No
+24,Male,HR,Mid-level,168,Very High,57674,1,Low,Good,3,2,Yes
+58,Female,IT,Mid-level,204,Very Low,97476,4,High,Low,47,4,No
+60,Female,HR,Junior,152,Very Low,44831,2,High,Good,2,9,Yes
+37,Male,IT,Senior,171,High,72174,3,Very Low,Good,25,7,No
+26,Female,Marketing,Mid-level,140,Low,21279,2,Very High,Low,49,2,Yes
+24,Male,Sales,Junior,156,Medium,53220,5,Low,Outstanding,6,8,No
+28,Male,IT,Junior,169,Very High,75610,3,Very Low,Good,26,7,Yes
+49,Female,Marketing,Mid-level,153,Low,67719,2,Very High,Outstanding,8,9,Yes
+37,Male,IT,Mid-level,179,Very High,68051,3,Medium,Low,35,8,Yes
+50,Female,IT,Junior,166,Very Low,87013,1,Medium,Excellent,27,3,No
+32,Female,Sales,Senior,109,High,66652,4,Very High,Outstanding,25,1,No
+38,Male,Operations,Senior,139,High,75524,2,Medium,Outstanding,18,2,Yes
+38,Male,Operations,Senior,106,Medium,92936,5,Medium,Outstanding,1,2,No
+49,Male,IT,Junior,147,High,16470,1,Medium,Good,48,4,Yes
+36,Male,HR,Mid-level,184,Very Low,82598,2,Low,Low,39,6,Yes
+55,Female,Marketing,Junior,160,Medium,56798,1,Very High,Outstanding,3,4,Yes
+55,Female,HR,Mid-level,183,Low,68473,5,Very High,Outstanding,4,9,No
+27,Male,HR,Senior,102,High,29880,2,Low,Low,41,4,Yes
+53,Female,IT,Senior,160,Medium,59439,5,High,Outstanding,37,6,No
+60,Female,IT,Mid-level,195,Very Low,29308,3,Very High,Good,15,6,Yes
+46,Female,IT,Mid-level,156,Very High,50081,5,High,Excellent,8,1,No
+38,Female,IT,Junior,177,Very High,90242,3,Medium,Low,38,8,No
+52,Male,Operations,Senior,191,Very Low,65383,2,High,Outstanding,19,3,Yes
+59,Male,IT,Junior,185,Very Low,24837,3,Medium,Low,47,6,No
+36,Female,Operations,Junior,137,Very High,62151,2,Low,Good,26,3,No
+55,Male,Operations,Junior,135,Medium,46824,2,Very High,Low,39,2,Yes
+30,Male,IT,Senior,150,Very High,43073,4,Low,Good,10,5,No
+45,Male,Sales,Junior,168,Very Low,41299,2,High,Good,38,1,No
+51,Female,Marketing,Junior,112,High,68861,3,Medium,Excellent,14,9,Yes
+25,Female,HR,Junior,186,Low,45063,4,High,Excellent,49,7,No
+29,Female,Operations,Junior,157,High,84453,4,Very High,Excellent,41,3,No
+51,Male,Marketing,Junior,149,High,78472,2,Medium,Low,19,4,No
+51,Female,Sales,Junior,129,Very Low,24506,5,Medium,Good,30,6,No
+43,Female,HR,Senior,161,Very High,94854,5,High,Good,5,3,No
+53,Male,HR,Junior,124,Medium,36026,4,Low,Good,31,7,No
+34,Female,Operations,Mid-level,126,High,37672,2,High,Good,7,6,No
+51,Female,IT,Junior,160,Very High,53417,5,High,Outstanding,19,9,No
+48,Male,Sales,Junior,177,Medium,67413,2,Medium,Low,31,5,Yes
+56,Male,Operations,Senior,156,High,80066,2,Low,Excellent,39,4,No
+24,Male,Sales,Senior,146,Medium,69213,4,High,Good,24,3,No
+50,Female,IT,Mid-level,209,Very High,65971,4,Very High,Excellent,34,1,No
+36,Female,IT,Mid-level,148,Low,37281,1,Very High,Excellent,23,3,Yes
+26,Female,Operations,Senior,115,Very High,38091,5,Very High,Outstanding,48,3,No
+29,Male,IT,Senior,131,Very Low,60494,5,High,Good,45,7,No
+31,Male,Marketing,Junior,184,Medium,33610,5,Low,Excellent,40,7,No
+50,Female,HR,Senior,153,Low,16079,3,Very High,Good,6,1,No
+32,Female,Operations,Mid-level,120,Medium,56751,2,Very High,Low,38,3,Yes
+60,Male,Sales,Junior,171,Medium,101126,4,Low,Outstanding,41,8,No
+56,Male,Marketing,Mid-level,115,High,65432,5,High,Excellent,36,9,No
+47,Male,Operations,Junior,158,Very Low,45951,1,High,Good,27,7,Yes
+38,Male,IT,Senior,140,Medium,90863,5,Very High,Excellent,11,7,No
+55,Female,IT,Mid-level,151,Very High,93291,2,Medium,Outstanding,5,8,Yes
+55,Male,IT,Junior,183,Very High,74872,2,High,Outstanding,17,6,Yes
+47,Female,IT,Junior,141,High,17235,4,Very High,Excellent,7,3,No
+35,Female,Sales,Senior,158,Very Low,97733,3,Low,Outstanding,27,1,Yes
+25,Female,Marketing,Senior,133,Very Low,72712,4,High,Good,47,7,No
+26,Male,HR,Senior,108,Very High,31473,5,Very High,Outstanding,15,1,No
+60,Male,Sales,Mid-level,180,Low,82567,1,Very High,Low,46,1,Yes
+40,Male,Sales,Junior,110,High,89823,4,Medium,Outstanding,13,9,No
+25,Male,HR,Senior,195,High,47230,3,High,Low,11,7,Yes
+25,Female,HR,Mid-level,109,Very High,94573,4,Very High,Good,45,4,No
+51,Male,IT,Mid-level,195,Very High,83876,2,Low,Good,26,6,No
+46,Male,Sales,Mid-level,116,Low,50644,5,Very High,Excellent,22,1,No
+60,Female,Operations,Senior,167,Low,63664,5,High,Good,28,7,No
+55,Male,HR,Senior,147,Very Low,55203,5,High,Excellent,24,6,No
+56,Female,HR,Junior,151,High,81677,5,Medium,Outstanding,29,4,No
+24,Female,Marketing,Junior,124,High,35425,5,Low,Outstanding,9,7,No
+42,Female,Operations,Senior,120,Very High,94817,5,Very High,Excellent,42,3,No
+25,Female,Operations,Mid-level,164,Very Low,100961,1,Medium,Outstanding,4,1,Yes
+49,Female,HR,Mid-level,162,High,84806,3,Medium,Good,49,4,No
+55,Female,IT,Mid-level,198,Very Low,57814,5,Very High,Low,46,3,No
+29,Female,Marketing,Junior,150,Very Low,80219,3,Medium,Good,18,1,Yes
+55,Female,Operations,Mid-level,135,Very High,59646,5,High,Good,43,2,No
+27,Male,HR,Junior,180,Very Low,54884,4,Medium,Excellent,16,5,No
+34,Male,Operations,Junior,187,Low,84322,5,Medium,Low,33,8,No
+40,Male,Marketing,Mid-level,165,Low,36650,2,Very High,Low,29,1,Yes
+47,Male,Marketing,Mid-level,114,Medium,19190,1,High,Low,39,4,Yes
+28,Female,Sales,Senior,195,Very High,53196,4,Medium,Outstanding,10,4,No
+57,Male,HR,Senior,138,Medium,49449,4,Very Low,Good,9,5,No
+29,Female,Marketing,Mid-level,169,Low,54661,2,Medium,Good,31,7,Yes
+45,Male,Sales,Junior,100,Medium,39709,5,Very High,Outstanding,28,8,No
+34,Male,Sales,Junior,122,Very High,90428,1,Medium,Outstanding,3,6,No
+39,Male,Operations,Junior,138,Very High,85179,4,Low,Outstanding,14,1,No
+56,Female,Operations,Junior,156,Very Low,24943,1,Medium,Low,25,7,Yes
+32,Male,Sales,Junior,180,High,58240,4,Very Low,Outstanding,15,3,No
+29,Female,Operations,Senior,133,Very Low,55760,5,Very High,Good,2,6,No
+39,Female,Marketing,Mid-level,140,Very High,31042,4,Low,Good,24,8,No
+52,Male,IT,Senior,202,Low,58894,4,Very Low,Outstanding,14,7,No
+26,Male,Marketing,Junior,172,Low,21869,3,Very High,Low,48,6,Yes
+43,Male,Sales,Junior,112,Very Low,71078,5,Medium,Excellent,7,9,No
+59,Female,Sales,Junior,169,Very High,71759,2,High,Excellent,36,9,No
+42,Male,Marketing,Junior,105,Low,54306,2,Medium,Good,24,1,Yes
+49,Female,Operations,Mid-level,183,Very High,70371,5,Very High,Outstanding,27,1,No
+26,Female,Operations,Junior,151,Low,35918,2,Very High,Good,37,1,Yes
+42,Male,Sales,Mid-level,102,Very High,38379,5,Very High,Low,38,8,No
+43,Male,HR,Junior,180,Medium,98232,2,Very High,Good,30,7,Yes
+55,Female,Operations,Mid-level,162,Very High,17962,3,Low,Excellent,27,3,No
+30,Female,Marketing,Senior,148,Very High,23851,2,Very High,Excellent,39,2,Yes
+56,Female,Operations,Junior,175,Very Low,60747,4,Medium,Excellent,15,4,No
+41,Male,Marketing,Mid-level,146,Medium,62349,5,High,Outstanding,26,3,No
+24,Female,Sales,Senior,154,High,85832,1,High,Excellent,1,7,Yes
+34,Male,Operations,Junior,163,Very Low,71356,1,High,Outstanding,4,8,No
+51,Female,Marketing,Junior,164,High,29745,5,Very High,Good,29,6,No
+48,Female,Sales,Junior,180,Low,20730,3,Medium,Outstanding,1,3,No
+46,Male,HR,Mid-level,166,High,28921,2,Very High,Low,43,6,Yes
+54,Female,Marketing,Mid-level,189,Very High,86138,3,Medium,Good,46,2,No
+53,Male,HR,Senior,114,High,93111,1,Very High,Low,22,7,Yes
+58,Male,HR,Mid-level,199,Very Low,34023,5,Medium,Outstanding,11,7,No
+30,Female,IT,Mid-level,141,Very Low,55349,5,Very High,Outstanding,10,4,No
+39,Male,Operations,Junior,195,High,96533,3,Medium,Good,17,8,No
+49,Male,Marketing,Junior,167,Very Low,98286,3,High,Low,36,4,No
+25,Female,HR,Junior,117,Very Low,51979,2,Medium,Low,47,7,Yes
+24,Male,IT,Junior,192,High,37837,4,Low,Good,26,4,No
+35,Male,Sales,Junior,142,Medium,24997,4,Low,Outstanding,48,5,No
+28,Male,Marketing,Junior,134,Medium,98603,2,Very High,Good,21,7,Yes
+60,Female,HR,Junior,177,Low,60039,4,High,Excellent,13,3,No
+55,Male,Operations,Senior,157,Very Low,35923,1,High,Good,9,5,Yes
+32,Female,IT,Senior,142,High,18876,4,Very High,Outstanding,11,3,No
+58,Female,HR,Senior,113,Very Low,70973,2,High,Low,11,5,No
+42,Male,Operations,Senior,133,Very High,12887,4,Very Low,Good,6,3,No
+39,Male,HR,Junior,160,Very Low,78723,5,Low,Good,1,7,No
+26,Male,Marketing,Senior,103,Very Low,52422,3,Very Low,Good,6,1,Yes
+43,Female,Marketing,Junior,187,Medium,66413,1,High,Good,13,9,Yes
+47,Male,Marketing,Senior,158,High,17841,5,Medium,Outstanding,22,9,No
+56,Male,IT,Mid-level,138,Very Low,38756,5,Medium,Outstanding,31,5,No
+47,Male,Marketing,Senior,182,Medium,86576,2,Very High,Outstanding,22,9,Yes
+34,Male,Operations,Senior,105,Low,20304,3,Very High,Low,37,6,Yes
+31,Male,HR,Junior,196,Medium,45341,3,Medium,Good,47,5,No
+59,Female,Sales,Senior,148,Medium,14758,1,Very High,Low,27,3,Yes
+43,Female,Operations,Mid-level,139,Medium,27010,2,Very High,Good,14,8,No
+58,Male,Operations,Junior,182,Very Low,75758,1,Very High,Excellent,47,4,Yes
+48,Male,Marketing,Junior,164,Very Low,46658,4,Very High,Outstanding,5,3,No
+58,Male,IT,Senior,178,Low,64002,5,Very High,Outstanding,36,6,No
+48,Male,HR,Junior,126,Very High,11375,1,Very High,Low,32,8,No
+52,Female,IT,Junior,189,Very High,37092,5,Very High,Outstanding,34,9,No
+41,Male,HR,Junior,105,Very High,10490,2,High,Low,7,6,No
+41,Female,HR,Junior,112,Low,13729,4,High,Low,42,5,No
+25,Female,IT,Junior,173,Very High,20974,2,Medium,Low,48,2,Yes
+58,Male,Operations,Junior,161,Very High,100216,4,Low,Excellent,10,2,No
+39,Female,HR,Mid-level,198,Medium,98860,4,Low,Good,17,9,No
+59,Female,IT,Senior,128,Very Low,31398,5,Medium,Outstanding,30,2,No
+56,Female,HR,Mid-level,175,Very Low,49650,2,Low,Outstanding,21,2,Yes
+27,Female,Sales,Junior,179,Medium,36292,2,Low,Good,13,3,Yes
+56,Male,Operations,Junior,142,Medium,13159,1,Medium,Outstanding,1,3,No
+37,Male,Marketing,Senior,173,Medium,77766,2,Very Low,Low,1,4,No
+44,Female,HR,Mid-level,188,Very Low,32065,1,Medium,Low,47,7,Yes
+43,Male,Sales,Senior,119,Very High,31638,3,High,Good,33,9,Yes
+31,Male,Marketing,Mid-level,194,Medium,16073,3,Very High,Low,38,2,Yes
+30,Male,Marketing,Junior,167,Low,61511,3,Very High,Outstanding,25,4,Yes
+26,Male,HR,Senior,143,Medium,94307,2,Medium,Excellent,26,9,Yes
+40,Male,IT,Senior,132,High,39320,2,High,Low,13,2,Yes
+56,Female,HR,Junior,101,Medium,79876,1,Low,Excellent,28,1,No
+35,Male,Sales,Senior,121,Very Low,44924,4,Low,Low,33,8,No
+45,Male,Marketing,Mid-level,156,Medium,96720,1,High,Low,37,9,No
+45,Male,HR,Mid-level,171,High,55734,3,High,Low,41,7,No
+53,Male,IT,Mid-level,116,Low,78116,1,High,Good,30,8,Yes
+31,Female,HR,Mid-level,177,Very High,55025,4,Very High,Low,49,4,No
+50,Female,Operations,Junior,155,Medium,17159,2,High,Low,48,4,Yes
+50,Female,IT,Senior,176,High,63940,1,Very High,Outstanding,8,2,Yes
+57,Female,Sales,Mid-level,115,High,89436,3,Medium,Good,49,8,No
+44,Male,Marketing,Junior,182,Low,91976,3,High,Good,47,2,No
+53,Female,HR,Senior,150,Very Low,24678,2,Very High,Excellent,1,9,No
+56,Male,IT,Senior,191,Medium,76075,1,Very High,Low,12,4,Yes
+51,Male,Operations,Junior,179,High,62204,4,High,Good,5,1,No
+56,Male,IT,Junior,181,Low,27021,2,Very High,Low,24,4,Yes
+28,Male,Operations,Mid-level,196,Very High,21772,1,Very Low,Good,6,3,Yes
+42,Male,Sales,Senior,111,High,77163,5,Low,Excellent,25,6,No
+27,Female,Marketing,Senior,152,Low,88755,3,Very High,Outstanding,1,7,Yes
+58,Female,Sales,Junior,174,Very Low,38464,4,Very High,Good,25,8,No
+40,Female,HR,Senior,104,Very Low,61137,4,Medium,Outstanding,1,2,No
+51,Female,IT,Mid-level,136,High,40232,4,Very High,Excellent,32,6,No
+53,Male,Operations,Senior,111,High,71497,3,Very High,Excellent,42,6,Yes
+52,Female,Operations,Junior,116,Medium,84024,1,Very High,Good,42,5,Yes
+29,Male,IT,Junior,115,Low,61448,2,Very High,Outstanding,3,7,Yes
+58,Female,IT,Mid-level,206,High,99517,1,High,Low,49,3,No
+60,Male,HR,Mid-level,104,Medium,10901,2,Very Low,Excellent,19,4,Yes
+47,Male,Sales,Senior,156,Medium,102980,4,Very High,Low,43,9,No
+52,Female,Operations,Senior,127,High,93597,1,Low,Good,29,4,No
+54,Male,HR,Junior,177,Very Low,17881,4,Low,Outstanding,2,3,No
+58,Male,Sales,Mid-level,168,Low,44863,5,Low,Excellent,9,2,No
+56,Female,HR,Mid-level,158,Low,20622,4,Very High,Outstanding,17,5,No
+44,Male,Operations,Mid-level,132,Very Low,11378,4,Very High,Low,46,4,No
+55,Female,IT,Senior,171,High,98168,2,Very High,Excellent,36,8,No
+46,Female,IT,Mid-level,159,Low,86186,5,Medium,Good,17,7,No
+56,Female,Sales,Junior,118,High,55201,4,Very High,Low,49,6,No
+26,Male,Marketing,Junior,185,High,74251,4,Very Low,Good,12,2,No
+41,Male,Sales,Senior,168,Medium,87572,5,Very High,Outstanding,20,3,No
+48,Male,Marketing,Senior,165,Very Low,54255,5,Very Low,Outstanding,3,9,No
+54,Female,HR,Mid-level,193,High,78212,1,High,Low,43,9,No
+26,Male,HR,Senior,146,Very High,60210,2,Low,Low,4,5,Yes
+47,Female,Operations,Junior,138,Very Low,32499,5,Low,Outstanding,17,3,No
+55,Female,Marketing,Mid-level,167,Low,66628,5,High,Good,37,2,No
+45,Male,Operations,Junior,132,Medium,71360,3,Very High,Low,46,8,No
+46,Female,IT,Mid-level,122,Low,14603,5,High,Good,42,6,No
+25,Male,Marketing,Senior,183,Low,100473,2,Very High,Low,15,7,Yes
+50,Male,Sales,Mid-level,153,Very Low,27632,4,Very High,Good,33,1,No
+25,Male,IT,Mid-level,116,Low,40607,4,Medium,Excellent,16,1,No
+49,Male,IT,Junior,188,High,80756,4,Low,Outstanding,11,2,No
+40,Male,Sales,Junior,186,Low,61994,4,Low,Outstanding,20,3,No
+56,Female,IT,Mid-level,123,Medium,73382,3,Very High,Low,38,1,Yes
+32,Female,Marketing,Senior,186,Medium,85354,5,Very High,Outstanding,24,5,No
+52,Female,Operations,Senior,118,Very High,66344,4,Low,Outstanding,16,3,No
+49,Male,IT,Junior,163,Medium,68775,1,Very Low,Good,30,1,Yes
+58,Male,Marketing,Senior,192,Low,22349,4,Low,Outstanding,34,8,No
+48,Male,HR,Junior,119,Medium,81154,5,Very High,Outstanding,1,6,No
+47,Female,Marketing,Senior,128,Very Low,37464,4,Low,Good,24,9,No
+36,Male,Operations,Mid-level,123,Medium,52624,3,Very Low,Outstanding,24,3,No
+30,Female,Marketing,Junior,181,High,52344,2,High,Outstanding,9,9,Yes
+59,Female,Sales,Junior,162,Very Low,98791,2,Low,Good,22,9,Yes
+43,Male,Operations,Mid-level,173,Very High,39299,5,Low,Outstanding,12,1,No
+24,Male,HR,Junior,156,High,62975,2,Very High,Good,17,3,Yes
+31,Female,Sales,Senior,107,Low,11462,2,Very High,Outstanding,25,6,No
+39,Male,Marketing,Senior,189,Low,96441,1,Medium,Outstanding,28,8,No
+37,Female,Operations,Junior,161,Low,96788,5,Very High,Outstanding,15,4,No
+35,Male,HR,Senior,128,High,50581,5,Very High,Outstanding,30,5,No
+46,Male,Sales,Junior,173,High,86289,2,Low,Good,27,9,Yes
+38,Female,HR,Mid-level,116,High,24175,2,Low,Good,22,6,No
+51,Male,Marketing,Junior,165,Very Low,21191,2,Low,Low,10,7,Yes
+57,Female,HR,Mid-level,105,Very Low,93434,3,Medium,Low,31,7,Yes
+25,Male,IT,Senior,167,Low,99518,4,Very Low,Outstanding,27,4,No
+55,Female,Sales,Mid-level,168,Medium,95158,3,Very High,Good,12,4,Yes
+46,Female,HR,Senior,127,Low,76537,5,Medium,Good,46,4,No
+45,Male,Marketing,Junior,161,Very High,62645,1,High,Low,31,5,Yes
+48,Female,Marketing,Senior,140,Very Low,33283,4,Very High,Excellent,32,5,No
+45,Male,HR,Junior,168,High,101971,1,High,Low,32,8,No
+45,Male,Marketing,Junior,181,Very Low,74123,5,Very High,Low,41,9,No
+29,Male,Operations,Mid-level,189,High,45024,5,Medium,Excellent,45,2,No
+38,Female,Operations,Mid-level,183,Very High,64630,1,Very High,Low,35,7,No
+60,Female,Operations,Mid-level,140,Very High,40734,1,Medium,Low,46,1,No
+56,Male,IT,Mid-level,158,Very Low,15515,1,High,Excellent,21,1,Yes
+31,Male,HR,Senior,190,High,81727,5,Low,Outstanding,10,4,No
+28,Female,IT,Senior,158,Very High,61216,2,Medium,Outstanding,16,7,Yes
+27,Male,Marketing,Senior,175,Low,86833,1,Very High,Low,7,2,Yes
+29,Male,IT,Junior,180,Low,73755,4,Medium,Outstanding,4,2,No
+55,Female,Marketing,Senior,102,High,37856,5,High,Excellent,27,1,No
+53,Male,Marketing,Senior,109,Very Low,83870,3,Low,Excellent,25,2,Yes
+58,Female,Sales,Senior,197,Very High,39162,3,Very High,Low,31,7,Yes
+39,Male,Operations,Mid-level,188,Very Low,21008,4,Very High,Excellent,11,9,No
+36,Female,Marketing,Senior,134,Low,17987,2,Medium,Excellent,48,6,Yes
+53,Male,Sales,Junior,179,Very High,77532,1,Medium,Good,20,2,No
+42,Male,Operations,Mid-level,101,Very Low,13332,5,Medium,Outstanding,36,9,No
+40,Female,Marketing,Junior,123,Medium,76323,1,Very High,Low,17,7,No
+42,Male,Marketing,Senior,173,High,53990,5,High,Good,45,1,No
+51,Female,IT,Mid-level,147,High,19873,3,Low,Excellent,11,9,No
+49,Male,IT,Junior,131,Medium,92542,1,Very High,Low,30,2,Yes
+60,Female,Operations,Senior,125,Low,95761,4,High,Good,35,4,No
+49,Female,Marketing,Junior,142,Very High,46444,2,Very High,Low,41,9,Yes
+46,Female,HR,Junior,154,High,50340,4,Very High,Outstanding,38,4,No
+32,Female,IT,Junior,148,Medium,15033,2,Low,Low,22,3,Yes
+35,Male,Operations,Senior,190,Medium,88324,1,Low,Low,43,1,Yes
+24,Male,Marketing,Senior,128,Low,25689,1,High,Low,48,7,Yes
+24,Female,Marketing,Junior,119,Low,97134,2,Very High,Low,27,6,Yes
+57,Female,HR,Mid-level,190,Very Low,15066,3,Medium,Excellent,37,4,No
+55,Female,Operations,Mid-level,140,High,55246,5,High,Excellent,46,6,No
+48,Male,Marketing,Senior,153,Very Low,22533,4,Low,Low,49,6,No
+24,Male,IT,Senior,129,Medium,90639,4,Very High,Outstanding,35,4,No
+39,Male,HR,Senior,118,Very High,80152,4,Very High,Outstanding,4,6,No
+28,Male,Operations,Senior,183,Very High,74658,1,Very High,Excellent,16,8,Yes
+45,Female,HR,Senior,198,Low,53498,4,High,Outstanding,16,3,No
+52,Female,IT,Mid-level,175,Very High,26772,5,Very High,Good,21,4,No
+26,Female,Operations,Senior,129,Very High,99385,5,Low,Outstanding,26,1,No
+35,Male,HR,Junior,152,Very High,64036,2,Low,Low,36,4,Yes
+49,Male,Sales,Junior,133,Medium,68531,1,Very High,Low,19,9,Yes
+39,Male,IT,Mid-level,131,Very High,22940,5,Very High,Excellent,17,8,No
+60,Female,IT,Junior,176,Very High,31932,3,High,Low,45,4,Yes
+45,Female,IT,Mid-level,115,Very High,66827,1,Very High,Good,26,7,Yes
+52,Male,Sales,Mid-level,178,Very Low,76431,1,Low,Excellent,22,3,No
+37,Female,Sales,Junior,126,Medium,34648,5,Low,Outstanding,28,9,No
+51,Male,Marketing,Senior,109,Low,42966,3,Low,Good,1,4,Yes
+28,Male,HR,Junior,172,Very Low,42777,2,Medium,Excellent,44,2,Yes
+53,Female,Marketing,Junior,196,High,47567,5,Very High,Excellent,36,5,No
+28,Male,HR,Mid-level,195,Medium,32174,3,Very High,Low,43,2,Yes
+35,Female,Sales,Junior,147,Medium,52598,1,High,Good,37,6,Yes
+39,Male,Sales,Mid-level,169,High,74199,3,Very Low,Outstanding,2,1,Yes
+49,Female,Marketing,Senior,158,High,28798,1,Very High,Excellent,17,6,Yes
+49,Female,Operations,Senior,199,High,80364,5,High,Low,40,4,No
+44,Female,Marketing,Senior,158,Low,32558,5,Very High,Excellent,38,3,No
+59,Male,HR,Junior,101,Very High,71084,4,Medium,Good,21,2,No
+56,Male,Marketing,Mid-level,128,Medium,54237,4,Very Low,Excellent,9,7,No
+53,Female,IT,Senior,177,Very High,80497,4,High,Outstanding,13,9,No
+60,Female,HR,Mid-level,164,Very High,15178,5,Very High,Good,11,3,No
+46,Male,HR,Mid-level,182,High,101006,2,Low,Low,16,6,Yes
+33,Male,Operations,Senior,125,Low,27118,5,Low,Outstanding,16,9,No
+28,Male,Sales,Senior,188,Very Low,37616,3,Very High,Good,2,2,Yes
+59,Female,HR,Mid-level,109,Low,10798,5,High,Low,42,7,No
+57,Male,Sales,Senior,152,Very High,22601,5,Low,Good,44,5,No
+54,Male,Marketing,Mid-level,178,Low,40363,1,High,Good,8,5,No
+33,Female,IT,Mid-level,168,High,17795,1,Very High,Good,43,7,No
+42,Male,Operations,Senior,121,Very Low,55264,1,Very High,Low,42,9,No
+55,Male,Sales,Junior,150,High,82833,5,Low,Outstanding,13,4,No
+24,Male,HR,Senior,147,Very Low,13084,2,Medium,Outstanding,17,9,Yes
+28,Female,Sales,Junior,120,Very High,86646,3,Very High,Excellent,39,9,Yes
+27,Female,HR,Mid-level,121,Very Low,10731,3,Very High,Low,24,4,Yes
+39,Female,Sales,Mid-level,199,Very Low,16129,2,High,Good,3,3,Yes
+47,Female,HR,Junior,197,Very Low,43022,2,High,Low,30,2,No
+39,Female,Marketing,Mid-level,129,Low,11605,3,High,Low,13,9,No
+25,Female,HR,Junior,124,Low,87506,4,Low,Outstanding,19,2,No
+51,Female,HR,Junior,127,Very High,54130,1,Very High,Outstanding,7,6,No
+55,Male,IT,Mid-level,174,Very Low,44265,1,Medium,Good,9,5,No
+50,Male,HR,Junior,144,Medium,42330,3,High,Good,19,5,No
+43,Female,IT,Senior,177,Very High,83469,2,Very High,Low,45,4,Yes
+47,Male,Operations,Senior,106,Very Low,25187,4,Very High,Excellent,40,6,No
+35,Male,IT,Mid-level,158,Very Low,40791,3,Very High,Low,22,5,Yes
+58,Female,Marketing,Mid-level,108,Low,80610,1,Very High,Good,18,4,Yes
+56,Male,IT,Junior,145,Very High,49867,5,Low,Outstanding,23,9,No
+56,Male,Operations,Junior,182,Very Low,15893,2,Medium,Outstanding,2,6,Yes
+60,Male,Marketing,Junior,100,Very Low,29773,5,Low,Excellent,11,3,No
+35,Male,Sales,Junior,109,Very High,14239,3,Very High,Low,31,6,Yes
+26,Male,Sales,Senior,135,Medium,30863,1,Medium,Good,33,1,Yes
+24,Female,IT,Senior,182,Very High,66415,4,Very High,Excellent,14,5,No
+56,Female,IT,Mid-level,155,Very High,83968,5,Very High,Excellent,16,6,No
+33,Female,Operations,Junior,131,Medium,70430,4,Very High,Excellent,11,8,No
+52,Male,Operations,Junior,131,Very High,11515,1,Medium,Low,33,9,Yes
+36,Female,HR,Mid-level,105,Very Low,24605,5,High,Excellent,7,3,No
+35,Male,Operations,Junior,147,Very High,66240,4,Medium,Good,31,2,No
+54,Male,HR,Junior,137,Medium,15586,4,High,Good,48,4,No
+25,Male,Marketing,Junior,116,High,41186,5,High,Good,46,8,No
+58,Male,IT,Junior,183,Very High,41928,1,Very High,Excellent,47,8,Yes
+46,Female,Marketing,Junior,126,Low,93087,4,Medium,Excellent,14,3,No
+40,Female,Operations,Mid-level,153,Very Low,102029,3,High,Outstanding,28,4,Yes
+49,Male,Marketing,Junior,149,Very Low,30711,5,Very High,Outstanding,43,3,No
+31,Female,Marketing,Mid-level,134,Low,64962,2,High,Low,16,2,Yes
+52,Male,Marketing,Junior,184,Low,35039,2,Very High,Low,19,4,Yes
+49,Female,Operations,Senior,124,Very High,46561,1,Medium,Outstanding,17,6,No
+33,Female,Marketing,Senior,127,Low,85483,3,Medium,Outstanding,26,5,No
+49,Male,HR,Senior,114,High,91395,4,Low,Excellent,6,3,No
+57,Female,Operations,Senior,103,Medium,98658,2,Very High,Low,43,2,No
+30,Male,Marketing,Mid-level,192,Low,16577,1,Low,Good,49,9,Yes
+27,Female,Operations,Mid-level,172,Low,43350,3,High,Low,9,1,Yes
+34,Male,Sales,Junior,126,High,43798,3,Medium,Outstanding,17,9,No
+52,Male,HR,Senior,125,Very Low,91417,1,Very High,Excellent,31,1,Yes
+59,Female,Marketing,Mid-level,118,Very Low,20785,1,Very High,Good,12,7,No
+48,Female,Sales,Junior,191,Very High,87227,4,High,Excellent,23,6,No
+44,Male,Sales,Junior,116,High,71957,1,Very High,Low,5,7,Yes
+59,Female,Operations,Mid-level,142,Medium,75431,4,Very High,Good,43,3,No
+33,Female,Sales,Senior,140,Medium,27297,4,Very High,Excellent,36,3,No
+60,Male,HR,Junior,141,High,81894,5,Low,Excellent,36,1,No
+32,Male,HR,Senior,149,Medium,73772,3,Very High,Good,3,4,Yes
+47,Female,IT,Senior,193,Very Low,34581,3,Medium,Excellent,24,2,Yes
+58,Male,HR,Senior,139,Medium,65192,3,Medium,Excellent,17,8,No
+58,Male,Sales,Junior,138,Medium,11462,5,High,Low,39,3,No
+59,Male,HR,Senior,122,High,74173,4,Very High,Outstanding,26,7,No
+41,Female,Operations,Junior,195,High,30511,4,Very High,Outstanding,4,7,No
+55,Female,IT,Senior,161,Medium,91106,1,Very High,Excellent,45,9,No
+47,Male,Sales,Junior,146,Low,58665,5,High,Good,12,6,No
+46,Female,IT,Senior,172,High,59414,1,Medium,Good,1,1,No
+55,Male,Sales,Mid-level,196,Very High,96010,5,Very High,Good,21,8,No
+60,Female,Operations,Senior,168,Very High,87573,1,Very High,Good,19,1,Yes
+35,Male,IT,Senior,152,Very Low,28386,2,High,Good,21,3,Yes
+36,Male,Marketing,Junior,147,Medium,64460,3,High,Good,18,5,Yes
+46,Female,Sales,Junior,133,Low,16221,3,Medium,Low,43,8,Yes
+48,Male,Marketing,Senior,139,Very Low,33474,4,Very Low,Excellent,3,9,No
+58,Female,IT,Mid-level,184,Medium,36045,2,Very High,Low,49,7,No
+53,Female,Marketing,Mid-level,160,High,19922,3,Very High,Low,44,9,Yes
+40,Male,Marketing,Junior,149,Very High,32706,4,Very High,Excellent,32,3,No
+43,Male,IT,Mid-level,176,Low,57771,2,Very High,Excellent,10,5,Yes
+48,Female,Operations,Senior,161,Very High,67335,3,High,Low,40,8,No
+45,Male,Marketing,Junior,157,High,67949,1,Low,Excellent,15,1,No
+36,Male,Marketing,Senior,132,Medium,80714,5,Very Low,Outstanding,5,8,No
+42,Male,Operations,Junior,174,High,30240,2,Medium,Low,4,7,Yes
+59,Male,Marketing,Junior,115,High,12716,4,Very Low,Good,28,1,No
+35,Male,Marketing,Junior,181,Very High,31574,2,Very Low,Good,4,6,Yes
+42,Female,Marketing,Junior,193,Low,98255,4,High,Excellent,15,1,No
+35,Female,HR,Mid-level,147,High,83717,2,Medium,Outstanding,17,2,No
+32,Male,Operations,Senior,109,Very High,54066,4,High,Good,44,5,No
+30,Male,Marketing,Senior,181,Low,76826,3,High,Excellent,3,2,Yes
+51,Male,Operations,Senior,137,Medium,30213,1,High,Outstanding,10,1,Yes
+37,Female,Sales,Junior,118,Medium,81916,3,Very High,Good,47,6,Yes
+54,Male,Sales,Mid-level,135,Very Low,76151,1,Very High,Low,42,8,Yes
+42,Female,Marketing,Senior,158,Very High,65906,3,Medium,Excellent,23,8,Yes
+39,Female,Operations,Mid-level,162,Low,15463,3,Medium,Low,18,8,No
+28,Female,Operations,Junior,176,High,46973,2,Very High,Excellent,1,6,Yes
+58,Male,Operations,Senior,145,Medium,84694,5,Low,Low,35,3,No
+35,Female,HR,Mid-level,102,Low,30651,4,Very High,Good,31,1,No
+48,Male,Sales,Junior,173,Very High,83694,4,Very High,Excellent,44,2,No
+44,Female,Operations,Mid-level,164,Very Low,35008,4,Low,Good,1,5,No
+59,Male,Operations,Senior,190,Medium,85474,1,Medium,Excellent,3,5,Yes
+46,Female,HR,Senior,107,Low,48185,4,High,Outstanding,3,1,No
+39,Male,HR,Junior,150,Low,97924,4,Medium,Good,37,1,No
+37,Female,Operations,Junior,180,Low,89417,2,Very High,Low,19,9,Yes
+54,Male,IT,Junior,182,Very High,86139,3,Low,Outstanding,29,2,Yes
+28,Male,Operations,Mid-level,105,Very High,44980,4,Medium,Outstanding,25,7,No
+58,Male,Operations,Mid-level,188,Very High,37504,5,Low,Outstanding,33,4,No
+46,Male,HR,Mid-level,138,High,64970,4,Medium,Excellent,36,7,No
+52,Female,HR,Junior,159,Low,31766,1,Very High,Good,29,8,No
+34,Female,Operations,Senior,127,Medium,21695,1,Very High,Outstanding,26,5,No
+41,Male,Operations,Senior,196,Very High,32796,1,Very Low,Good,4,1,No
+35,Female,Operations,Mid-level,153,Very High,57543,4,Very High,Low,49,4,No
+32,Male,HR,Mid-level,136,Low,24559,2,High,Excellent,14,3,No
+33,Male,Operations,Senior,108,Very High,43139,5,High,Outstanding,27,5,No
+40,Female,Operations,Senior,181,High,23802,4,Very High,Good,33,6,No
+30,Male,Marketing,Mid-level,155,High,88843,2,Low,Good,22,2,Yes
+36,Male,IT,Mid-level,168,Very High,55205,2,High,Low,48,7,No
+32,Female,Sales,Senior,184,Low,49159,4,Medium,Outstanding,3,3,No
+50,Male,IT,Junior,111,Low,21516,4,Medium,Outstanding,23,1,No
+25,Male,Marketing,Mid-level,160,Low,65492,2,High,Excellent,21,3,Yes
+28,Male,Sales,Senior,157,Very Low,44086,2,Very High,Low,41,9,Yes
+52,Male,Operations,Senior,159,Very High,45480,2,Low,Low,23,6,Yes
+60,Female,Marketing,Senior,139,Low,62091,4,Very High,Excellent,4,6,No
+42,Female,Operations,Senior,135,High,57766,2,High,Good,21,4,No
+31,Female,HR,Junior,136,Medium,48737,1,High,Excellent,37,8,Yes
+24,Male,Marketing,Senior,178,Medium,24265,4,Medium,Low,43,5,No
+45,Male,HR,Mid-level,191,Low,85990,1,Very High,Excellent,31,7,No
+40,Female,Marketing,Junior,117,Medium,25386,3,Medium,Low,21,9,No
+30,Male,Marketing,Senior,197,Medium,52425,4,Very High,Outstanding,26,5,No
+48,Male,HR,Junior,162,Very Low,58254,3,Very High,Low,41,5,Yes
+27,Male,Sales,Mid-level,121,High,99863,2,Very High,Low,35,4,Yes
+59,Male,IT,Senior,120,High,63634,2,High,Good,38,6,Yes
+29,Female,Operations,Mid-level,157,Very Low,101717,5,Very High,Good,24,2,No
+54,Female,Marketing,Senior,156,Very Low,62662,2,Very High,Outstanding,11,3,Yes
+42,Female,Operations,Senior,176,Medium,101988,3,Medium,Low,41,1,Yes
+50,Male,HR,Senior,103,Very High,97527,2,Very Low,Good,29,2,Yes
+33,Female,Operations,Senior,185,Medium,90452,4,High,Outstanding,47,2,No
+49,Female,HR,Senior,106,Very Low,20143,2,Medium,Excellent,3,8,No
+42,Male,Operations,Junior,160,High,30581,5,Very Low,Good,1,8,No
+26,Male,IT,Senior,163,Medium,82443,2,Very High,Outstanding,19,2,Yes
+36,Female,IT,Senior,197,Very High,44424,3,High,Low,46,6,Yes
+51,Female,IT,Junior,177,Medium,103844,3,Very High,Low,49,5,No
+43,Female,IT,Junior,201,Low,56984,2,Very High,Outstanding,22,3,No
+51,Female,IT,Junior,188,Medium,56505,3,Very High,Good,14,5,Yes
+31,Male,IT,Junior,110,Very Low,72699,3,Medium,Excellent,49,5,Yes
+24,Female,HR,Junior,154,High,41957,5,Very High,Excellent,14,5,No
+26,Female,Marketing,Junior,102,High,35464,4,High,Outstanding,44,3,No
+36,Male,Operations,Senior,177,Very Low,38649,5,Low,Good,16,3,No
+51,Female,IT,Senior,147,Low,52065,1,Very High,Low,33,4,No
+48,Male,HR,Mid-level,100,Very Low,44758,5,Very Low,Good,13,7,No
+56,Male,HR,Senior,137,Medium,15596,2,Very High,Low,38,2,Yes
+29,Male,HR,Senior,184,Very Low,31374,4,Very High,Good,49,4,No
+55,Female,Marketing,Junior,128,Very Low,13775,2,High,Excellent,12,4,No
+44,Female,Operations,Junior,104,Low,37388,1,Very High,Excellent,38,1,No
+39,Male,Marketing,Senior,173,Medium,36029,4,Medium,Excellent,39,8,No
+44,Female,Sales,Mid-level,191,Very High,98981,3,High,Low,33,1,Yes
+34,Female,HR,Junior,120,Very High,63639,5,Very High,Good,33,8,No
+60,Male,Sales,Senior,170,High,29645,2,Medium,Excellent,29,7,No
+59,Male,IT,Senior,176,Very Low,46105,1,High,Excellent,5,9,No
+58,Female,IT,Mid-level,156,High,28668,3,High,Good,6,8,Yes
+42,Male,Marketing,Mid-level,183,Low,30960,5,High,Good,31,5,No
+43,Female,Operations,Junior,182,Very High,26357,3,Very High,Outstanding,16,8,Yes
+41,Female,Sales,Mid-level,134,Very Low,74604,5,High,Low,31,3,No
+37,Female,Operations,Senior,167,Low,66796,4,Medium,Good,25,7,No
+38,Female,Marketing,Senior,168,Low,30804,3,Very High,Excellent,48,4,Yes
+54,Male,IT,Mid-level,110,Very Low,24626,3,Medium,Good,46,5,Yes
+24,Male,Operations,Mid-level,167,Low,43132,3,Low,Low,33,9,Yes
+26,Male,Operations,Mid-level,111,Very Low,17951,4,Medium,Outstanding,13,7,No
+39,Male,IT,Mid-level,169,Very Low,21449,1,Low,Low,10,4,Yes
+46,Female,Sales,Junior,126,Medium,29065,5,Low,Good,24,6,No
+34,Female,IT,Mid-level,165,High,24130,3,Very High,Excellent,10,7,Yes
+35,Male,Operations,Junior,122,Low,99360,4,Medium,Low,41,9,No
+33,Female,Sales,Senior,124,Low,72287,1,Medium,Low,31,4,Yes
+55,Female,Sales,Mid-level,120,Medium,61702,5,Very High,Outstanding,13,3,No
+39,Female,IT,Junior,170,Medium,51993,4,Very High,Outstanding,3,8,No
+31,Male,Operations,Mid-level,162,Medium,46875,5,Low,Good,34,1,No
+35,Male,Marketing,Senior,151,Very High,21054,3,High,Low,49,9,No
+47,Male,Operations,Senior,187,Very High,63517,1,Medium,Low,28,1,No
+51,Female,HR,Senior,124,Very High,86368,4,Medium,Excellent,19,2,No
+31,Male,Marketing,Mid-level,154,Very Low,44670,1,High,Excellent,23,8,Yes
+51,Male,Sales,Mid-level,145,Low,59112,3,High,Low,45,9,Yes
+59,Male,Marketing,Junior,131,High,98388,1,High,Excellent,32,7,Yes
+49,Male,Sales,Senior,154,Very Low,104156,1,High,Good,13,3,No
+31,Male,Sales,Mid-level,195,Low,43307,2,Very High,Low,33,7,Yes
+51,Male,Marketing,Senior,104,Low,77087,1,High,Excellent,34,6,Yes
+51,Female,Sales,Senior,135,Medium,57922,5,Medium,Good,33,2,No
+60,Female,Sales,Junior,148,Medium,73080,4,Medium,Excellent,5,3,No
+59,Male,HR,Junior,157,Very Low,94335,2,Medium,Low,3,5,No
+50,Male,Operations,Junior,138,Medium,36312,4,Medium,Outstanding,7,4,No
+40,Female,Operations,Junior,179,Low,81985,4,Very High,Good,24,2,No
+32,Female,HR,Senior,196,Medium,72608,3,Low,Excellent,22,4,Yes
+56,Male,Marketing,Junior,184,Very High,104962,3,Medium,Excellent,45,8,Yes
+43,Male,IT,Junior,170,Medium,55277,2,Medium,Outstanding,23,5,No
+36,Male,IT,Junior,118,Low,41551,3,Low,Outstanding,30,5,No
+51,Male,IT,Junior,115,Very Low,99813,3,High,Excellent,18,3,No
+52,Female,HR,Senior,134,High,66597,3,Very High,Good,32,8,No
+36,Male,HR,Junior,138,Medium,55212,4,Medium,Outstanding,7,6,No
+58,Male,Sales,Senior,121,Low,19637,2,Very High,Excellent,33,2,Yes
+29,Male,IT,Mid-level,150,High,53258,4,Very High,Outstanding,5,2,No
+41,Male,Marketing,Senior,104,High,45693,5,High,Good,49,9,No
+28,Female,Marketing,Senior,141,Very High,19824,4,Medium,Good,28,7,No
+48,Female,IT,Junior,196,High,41950,5,Low,Outstanding,8,9,No
+25,Female,IT,Mid-level,190,Low,38488,1,Medium,Low,15,6,Yes
+33,Male,IT,Mid-level,185,Low,15215,1,Very High,Good,4,5,Yes
+53,Male,HR,Mid-level,186,Medium,26523,5,Low,Excellent,34,1,No
+28,Female,HR,Mid-level,179,Medium,90900,5,Medium,Good,5,6,No
+56,Male,HR,Senior,166,Medium,83689,4,Medium,Good,33,6,No
+24,Male,Operations,Mid-level,129,High,33834,5,High,Excellent,5,3,No
+41,Female,Marketing,Senior,156,High,49474,2,Very High,Low,38,3,Yes
+55,Female,Marketing,Senior,185,Very High,58066,1,Very High,Excellent,34,3,No
+34,Female,Sales,Senior,172,Medium,25400,1,Low,Low,26,3,No
+44,Female,HR,Mid-level,128,Very Low,20345,5,Very High,Outstanding,1,7,No
+49,Male,Operations,Junior,136,Very High,43896,3,Very High,Excellent,4,2,Yes
+48,Male,Operations,Junior,186,Very Low,100430,3,High,Excellent,39,2,No
+45,Female,Marketing,Mid-level,112,High,38899,5,High,Outstanding,26,3,No
+50,Male,HR,Junior,131,Very High,38229,2,Low,Low,33,7,No
+36,Female,Sales,Junior,145,Very High,15583,3,Very High,Good,33,3,No
+56,Female,HR,Senior,122,Low,14897,5,Very High,Excellent,8,7,No
+57,Male,IT,Senior,154,High,86537,2,Very Low,Excellent,20,9,Yes
+58,Female,HR,Mid-level,116,High,14567,2,Very High,Outstanding,16,4,Yes
+24,Male,IT,Mid-level,194,Very High,89807,4,Very Low,Outstanding,21,7,No
+44,Male,IT,Junior,175,High,92239,2,Low,Excellent,45,9,Yes
+29,Male,Sales,Senior,105,Very High,23329,3,Low,Excellent,26,8,Yes
+51,Male,Marketing,Mid-level,117,Low,81792,3,Low,Outstanding,23,8,Yes
+40,Female,HR,Mid-level,193,Very High,15228,5,Low,Outstanding,18,9,No
+28,Male,IT,Mid-level,131,High,92214,5,High,Good,31,5,No
+54,Female,HR,Mid-level,132,High,47052,2,High,Good,42,5,No
+28,Female,Marketing,Mid-level,129,Very High,67769,1,Very High,Good,12,3,Yes
+26,Female,Marketing,Mid-level,180,Very High,61032,4,Very High,Outstanding,1,5,No
+46,Female,Operations,Junior,131,Very High,98721,1,High,Excellent,42,8,No
+60,Male,Marketing,Senior,141,Medium,43686,2,Very Low,Outstanding,9,5,Yes
+60,Male,Sales,Senior,177,High,91981,2,Medium,Excellent,3,4,No
+33,Female,IT,Mid-level,119,High,73261,1,Very High,Low,26,8,Yes
+33,Female,Operations,Senior,135,Medium,12809,4,Medium,Outstanding,9,7,No
+42,Male,Sales,Senior,133,Very High,51785,1,High,Excellent,42,6,Yes
+40,Female,HR,Senior,172,Low,51547,5,High,Outstanding,16,5,No
+44,Male,IT,Mid-level,137,Very High,52818,3,Medium,Outstanding,24,5,No
+37,Female,Marketing,Mid-level,110,Very High,81927,5,Low,Outstanding,14,2,No
+32,Male,IT,Senior,187,Medium,80681,3,Very High,Low,3,4,Yes
+24,Female,HR,Senior,138,High,89465,2,Very High,Low,34,8,Yes
+36,Female,Operations,Mid-level,146,Very High,99862,4,Very High,Low,33,8,No
+27,Male,Operations,Junior,118,High,47333,1,Low,Outstanding,24,1,Yes
+24,Female,Operations,Senior,114,Very Low,26576,4,Very High,Outstanding,9,2,No
+55,Female,Marketing,Junior,127,High,49405,1,Low,Low,13,5,Yes
+57,Male,Sales,Senior,123,Low,83779,5,Very Low,Good,2,9,No
+51,Female,Sales,Junior,171,Low,46601,5,Very High,Outstanding,7,7,No
+54,Male,IT,Junior,118,Very High,77946,1,Very High,Excellent,48,5,Yes
+31,Male,Marketing,Junior,146,High,77356,4,Very Low,Excellent,21,1,No
+49,Female,Operations,Mid-level,132,Very High,62116,1,Low,Good,19,6,Yes
+57,Female,Operations,Junior,161,Medium,77894,2,Very High,Good,25,8,No
+26,Female,HR,Junior,196,Low,49635,5,Medium,Low,47,7,No
+35,Female,HR,Junior,118,Very High,17465,2,Very High,Excellent,22,2,Yes
+24,Female,Operations,Senior,166,Medium,71754,5,Very High,Outstanding,11,5,No
+28,Female,Operations,Junior,173,Very High,100119,5,Very High,Good,33,4,No
+53,Female,Marketing,Senior,139,High,48871,3,High,Good,32,9,Yes
+53,Male,Sales,Junior,146,High,72874,2,Very High,Outstanding,21,1,Yes
+40,Female,HR,Junior,164,High,92733,2,Very High,Good,39,6,Yes
+46,Male,Sales,Mid-level,128,High,39511,3,Low,Low,20,3,Yes
+38,Female,Marketing,Senior,149,Very Low,90960,4,High,Good,8,9,No
+60,Female,Operations,Junior,197,Medium,63821,2,Medium,Low,42,5,Yes
+44,Male,Sales,Senior,112,Medium,75776,1,Very High,Low,37,6,Yes
+37,Female,Operations,Senior,100,High,80167,3,Low,Outstanding,9,9,No
+25,Female,Operations,Mid-level,133,Very Low,85135,2,Very High,Low,25,9,Yes
+34,Male,IT,Mid-level,202,High,59462,4,Very Low,Excellent,25,8,No
+57,Female,Sales,Mid-level,147,Very Low,71382,2,High,Low,33,9,Yes
+57,Female,Sales,Mid-level,176,High,47574,5,Low,Excellent,2,4,No
+41,Female,Operations,Mid-level,147,Low,51910,1,Low,Good,19,6,Yes
+53,Male,Marketing,Mid-level,148,Low,83531,3,Low,Low,46,5,Yes
+38,Female,IT,Mid-level,173,Very High,40186,5,High,Excellent,20,5,No
+50,Female,Operations,Mid-level,160,High,37813,4,Very High,Low,42,4,No
+57,Female,HR,Junior,128,Medium,88812,5,Very High,Low,41,2,No
+56,Female,HR,Senior,138,Very High,95525,5,High,Good,42,6,No
+47,Male,IT,Mid-level,197,Low,93282,4,Very Low,Good,29,9,No
+38,Male,Marketing,Mid-level,125,High,28557,5,Very Low,Outstanding,6,1,No
+53,Female,Operations,Senior,116,Very High,38060,3,Low,Outstanding,17,7,No
+40,Female,Sales,Junior,170,High,73866,2,Low,Excellent,25,6,Yes
+28,Male,IT,Senior,122,Low,82104,5,High,Outstanding,38,3,No
+52,Male,Marketing,Senior,168,Very High,99577,3,High,Low,4,1,No
+27,Female,Sales,Mid-level,125,Low,16080,2,Very High,Low,30,4,Yes
+33,Male,HR,Senior,148,Very Low,23854,2,Low,Outstanding,20,9,Yes
+40,Female,HR,Senior,166,Low,82695,5,Low,Excellent,3,2,No
+33,Male,Sales,Mid-level,106,High,37025,3,High,Good,23,3,Yes
+40,Male,IT,Mid-level,167,Medium,67982,5,Very High,Good,18,2,No
+43,Male,HR,Mid-level,148,Low,51081,4,High,Excellent,26,2,No
+47,Male,Operations,Mid-level,152,Medium,19368,2,High,Good,36,8,No
+28,Female,Sales,Senior,164,Very Low,42094,5,Very High,Outstanding,8,3,No
+57,Male,Sales,Senior,161,Very High,61040,2,High,Outstanding,17,7,No
+29,Male,HR,Junior,116,Very High,76766,3,High,Excellent,31,8,Yes
+25,Female,IT,Junior,152,Medium,98053,1,Very High,Low,37,3,Yes
+36,Male,Operations,Senior,124,Very High,33991,5,Very High,Low,45,2,No
+34,Male,IT,Junior,112,Low,11301,5,Very High,Outstanding,33,8,No
+46,Female,Marketing,Senior,178,Medium,43610,2,High,Excellent,27,3,Yes
+39,Male,Marketing,Junior,128,High,91463,3,Low,Excellent,45,7,No
+54,Female,HR,Mid-level,131,Low,44678,4,Medium,Outstanding,4,1,No
+34,Female,HR,Junior,125,Low,34466,3,Very High,Excellent,22,6,Yes
+39,Female,HR,Mid-level,115,Low,90440,5,High,Good,26,9,No
+31,Female,Marketing,Mid-level,124,High,50875,4,Very High,Outstanding,32,3,No
+27,Male,IT,Mid-level,163,Very Low,41081,3,Medium,Outstanding,24,7,Yes
+27,Female,IT,Mid-level,137,Very High,34354,1,High,Excellent,46,6,Yes
+48,Male,HR,Junior,172,Medium,33300,2,Medium,Low,35,8,Yes
+26,Male,Operations,Senior,155,Very Low,79384,3,Low,Excellent,37,3,Yes
+55,Male,IT,Mid-level,174,Medium,75892,3,Low,Good,32,3,No
+26,Male,Marketing,Junior,192,Very High,50525,1,Low,Low,7,4,Yes
+50,Male,Sales,Mid-level,185,High,41532,5,Very High,Low,33,3,No
+52,Male,Sales,Junior,179,Low,21464,2,Very High,Good,31,9,Yes
+55,Male,Sales,Junior,140,Low,26562,3,High,Good,12,4,No
+42,Male,Operations,Junior,150,High,65514,4,Very Low,Outstanding,11,6,No
+44,Male,HR,Senior,170,Very Low,89219,3,High,Low,24,8,Yes
+28,Male,Marketing,Junior,177,Very Low,47634,2,Very Low,Excellent,8,8,Yes
+41,Female,Operations,Junior,128,Medium,10060,3,High,Low,32,5,No
+51,Female,Marketing,Senior,182,High,24269,1,Very High,Low,38,5,Yes
+45,Female,Marketing,Senior,118,Very Low,73143,3,Very High,Good,22,6,Yes
+44,Male,HR,Junior,165,High,38065,3,Medium,Good,34,7,No
+29,Female,Sales,Senior,140,Very High,12895,4,Very High,Outstanding,19,7,No
+24,Female,HR,Mid-level,144,Low,90859,1,Very High,Excellent,20,4,Yes
+28,Female,Operations,Mid-level,114,Low,22352,1,High,Good,14,6,Yes
+35,Male,Operations,Senior,102,Low,59737,3,Low,Good,33,7,No
+49,Male,Operations,Senior,110,High,42016,4,High,Outstanding,10,5,No
+57,Male,HR,Junior,152,High,76304,3,Low,Good,16,5,No
+37,Male,Marketing,Senior,145,Medium,21962,3,High,Excellent,4,2,No
+49,Female,Marketing,Junior,129,Low,43302,2,Very High,Good,27,7,Yes
+50,Female,IT,Mid-level,166,Medium,100382,2,Low,Good,28,6,No
+32,Female,Operations,Senior,117,Low,14011,4,Very High,Low,43,1,No
+49,Female,Marketing,Junior,150,Medium,29782,5,Low,Good,16,4,No
+45,Male,IT,Junior,157,Medium,82691,2,Very High,Low,33,3,Yes
+53,Male,Marketing,Mid-level,165,Very High,54725,5,Very High,Excellent,48,3,No
+40,Male,Operations,Senior,195,Medium,24196,1,Very High,Excellent,19,7,Yes
+49,Female,Sales,Mid-level,107,High,53459,2,Very High,Excellent,21,4,Yes
+59,Male,Operations,Junior,121,Medium,97245,2,Low,Outstanding,22,8,No
+24,Male,HR,Junior,105,Low,88863,4,Medium,Excellent,9,9,No
+31,Female,Marketing,Senior,175,Medium,47769,5,Very High,Excellent,9,3,No
+58,Female,Marketing,Junior,156,Very Low,39700,2,Very High,Outstanding,9,5,Yes
+38,Male,HR,Senior,135,Low,90356,2,High,Good,27,4,No
+45,Male,HR,Mid-level,178,Very Low,91427,4,Medium,Excellent,17,6,No
+37,Male,Sales,Senior,191,Low,20269,4,Low,Outstanding,44,4,No
+49,Male,Marketing,Senior,156,High,58880,5,High,Low,45,8,No
+51,Male,Marketing,Junior,148,High,18320,1,Medium,Good,8,3,No
+46,Male,Sales,Junior,144,High,59589,1,Medium,Outstanding,16,5,No
+37,Female,IT,Senior,191,Very Low,91276,3,Very High,Excellent,18,1,Yes
+47,Female,Sales,Junior,165,Very High,50897,2,Very High,Low,33,6,Yes
+25,Female,Operations,Junior,176,Low,73565,5,Medium,Outstanding,1,5,No
+49,Male,Marketing,Junior,144,High,40930,2,Very Low,Good,12,8,No
+37,Female,HR,Senior,178,Low,72233,5,Very High,Good,6,9,No
+30,Male,Operations,Junior,119,Very Low,92821,5,High,Outstanding,41,8,No
+26,Male,Marketing,Senior,163,Very High,29380,5,Very Low,Excellent,5,8,No
+46,Female,Sales,Junior,192,Very Low,91896,2,Low,Outstanding,16,3,No
+41,Male,Operations,Mid-level,192,Low,85934,4,Low,Good,18,4,No
+58,Male,Marketing,Junior,166,Very High,70830,2,Very High,Good,49,4,No
+38,Female,IT,Junior,192,Very High,20529,5,High,Excellent,18,5,No
+48,Female,IT,Senior,112,Very Low,92987,3,Very High,Good,1,9,Yes
+60,Female,HR,Senior,153,High,64178,1,Medium,Outstanding,19,9,Yes
+51,Male,Marketing,Junior,177,Low,21937,5,Very High,Good,8,1,No
+33,Female,IT,Mid-level,173,Medium,54886,3,Low,Outstanding,3,8,Yes
+40,Female,Sales,Junior,139,Medium,59699,4,High,Good,25,1,No
+45,Male,Marketing,Junior,158,Very Low,91396,5,Very High,Excellent,5,2,No
+49,Female,Sales,Mid-level,154,Low,40279,3,High,Low,40,7,No
+48,Female,Sales,Senior,161,Low,53106,5,Very High,Excellent,19,8,No
+40,Female,IT,Junior,113,Very Low,89737,2,Low,Low,18,1,No
+36,Male,Marketing,Senior,159,Low,55544,3,High,Good,31,3,No
+43,Male,Operations,Senior,174,High,23997,2,Very High,Low,33,7,Yes
+48,Male,IT,Mid-level,204,Very Low,100711,2,Very High,Good,47,9,Yes
+27,Male,IT,Mid-level,205,High,55860,3,Very Low,Low,18,8,Yes
+33,Female,Marketing,Senior,190,Low,18225,1,Very High,Low,39,8,Yes
+26,Male,Marketing,Junior,129,Very Low,69470,3,Low,Outstanding,16,9,Yes
+41,Male,Sales,Senior,101,Low,73656,1,High,Outstanding,16,3,No
+59,Female,Marketing,Junior,161,Very Low,66880,5,Very High,Good,47,8,No
+45,Female,Sales,Junior,148,Low,71078,5,Very High,Outstanding,38,1,No
+57,Female,IT,Mid-level,118,High,98646,3,Medium,Low,41,8,No
+31,Male,HR,Junior,191,High,91290,5,Very Low,Outstanding,7,7,No
+42,Male,Operations,Junior,130,Low,66633,4,Low,Good,14,8,No
+60,Male,IT,Senior,207,Very Low,41655,2,Very High,Good,43,1,No
+29,Female,Marketing,Mid-level,160,Medium,58601,2,Medium,Low,48,6,Yes
+49,Female,Operations,Junior,178,High,18114,1,Medium,Good,25,7,No
+57,Male,HR,Junior,147,High,36502,5,Medium,Excellent,32,5,No
+29,Female,HR,Mid-level,124,Medium,59768,1,Very High,Low,38,5,Yes
+60,Female,Sales,Senior,135,Low,58128,2,High,Good,22,7,Yes
+56,Female,Operations,Mid-level,107,Very Low,30028,2,Very High,Good,16,3,No
+45,Male,Sales,Mid-level,172,Low,70565,5,Medium,Outstanding,29,6,No
+44,Female,IT,Junior,167,Very High,98123,4,Medium,Excellent,16,7,No
+29,Female,Operations,Junior,144,High,45333,4,Low,Outstanding,12,1,No
+29,Male,IT,Senior,171,Very High,18174,5,Very High,Good,17,2,No
+27,Male,Sales,Junior,138,High,45398,5,Medium,Good,37,4,No
+53,Female,Operations,Junior,195,High,50929,1,Low,Excellent,27,8,Yes
+34,Female,Sales,Mid-level,157,Very High,19321,5,Medium,Excellent,25,6,No
+53,Male,Operations,Junior,180,Very High,70421,4,High,Good,13,1,No
+54,Male,Sales,Senior,198,Low,87635,5,Medium,Outstanding,8,5,No
+47,Female,HR,Mid-level,182,Very High,38760,1,Medium,Excellent,5,7,Yes
+32,Female,Sales,Senior,163,Low,26360,1,Low,Low,12,6,No
+26,Female,HR,Mid-level,143,Low,20313,1,Very High,Good,41,9,Yes
+54,Female,Sales,Junior,128,Low,95998,1,Very High,Low,3,8,Yes
+60,Male,Operations,Mid-level,158,High,20801,3,Very High,Good,35,4,No
+59,Female,Operations,Mid-level,170,High,29130,5,Very High,Excellent,33,5,No
+47,Female,Operations,Junior,191,Very High,29271,2,Very High,Low,22,7,No
+54,Male,Marketing,Junior,108,High,26075,5,Very High,Low,44,8,No
+29,Female,IT,Senior,201,Very High,33984,3,Low,Excellent,9,5,Yes
+25,Male,Operations,Senior,105,High,98095,1,Medium,Good,41,9,Yes
+43,Female,HR,Junior,128,Very Low,70942,3,High,Low,18,4,Yes
+51,Female,Operations,Junior,157,Very Low,27861,4,Very High,Outstanding,29,4,No
+34,Male,Marketing,Junior,116,Very High,92203,4,High,Low,39,8,No
+27,Male,HR,Mid-level,115,High,81376,5,High,Outstanding,27,1,No
+38,Female,Marketing,Mid-level,186,High,76247,5,Very High,Excellent,36,8,No
+29,Female,HR,Mid-level,194,Low,84101,2,Very High,Good,45,5,Yes
+53,Female,Sales,Junior,102,Medium,30977,2,Medium,Low,17,1,No
+25,Male,IT,Senior,130,Very High,60617,4,Medium,Excellent,34,4,No
+38,Female,IT,Junior,173,Medium,72473,1,Very High,Excellent,46,2,Yes
+34,Male,Marketing,Mid-level,189,Medium,101654,3,Very Low,Good,3,4,No
+31,Male,IT,Mid-level,145,Very High,98177,2,Medium,Outstanding,5,8,Yes
+49,Female,Marketing,Junior,185,High,87902,2,Very High,Low,14,5,Yes
+28,Male,Marketing,Junior,161,Very High,30630,1,Low,Excellent,3,1,Yes
+29,Female,Marketing,Mid-level,141,Medium,30056,1,Medium,Low,23,7,Yes
+49,Female,IT,Mid-level,185,High,22382,5,High,Good,39,1,No
+27,Female,Marketing,Mid-level,141,Very Low,65739,3,Low,Low,30,9,Yes
+42,Female,IT,Junior,170,Very High,96685,1,Medium,Good,45,3,Yes
+43,Female,Marketing,Mid-level,112,Very High,58639,2,Very High,Good,23,3,Yes
+56,Male,Operations,Mid-level,110,High,69838,2,Medium,Good,27,6,No
+43,Male,Marketing,Senior,153,Very Low,61041,4,Medium,Outstanding,10,6,No
+35,Female,HR,Junior,115,Very Low,10992,1,Very High,Excellent,25,6,No
+24,Female,Marketing,Senior,107,High,82394,5,Medium,Outstanding,13,1,No
+49,Male,Sales,Senior,158,Low,82657,3,Very Low,Low,16,5,Yes
+37,Male,Marketing,Mid-level,156,Very High,42160,5,Very High,Outstanding,41,6,No
+60,Male,HR,Junior,139,Very High,55156,2,Very High,Low,34,8,No
+34,Male,HR,Mid-level,158,Medium,66375,5,Low,Low,37,1,No
+59,Female,IT,Junior,111,High,96442,2,High,Outstanding,22,5,No
+36,Female,Operations,Senior,193,Medium,34572,2,Medium,Excellent,17,3,No
+26,Male,Marketing,Junior,193,Medium,19136,2,Medium,Excellent,23,2,Yes
+56,Female,IT,Mid-level,185,Very Low,76868,2,Very High,Excellent,36,8,No
+29,Male,Operations,Mid-level,109,Very High,92263,2,Medium,Excellent,49,7,Yes
+33,Female,Marketing,Mid-level,143,Medium,42167,4,Very High,Good,9,7,No
+28,Male,Sales,Junior,110,Very Low,25479,5,High,Excellent,2,5,No
+46,Female,Marketing,Senior,178,High,46376,4,Very High,Outstanding,32,9,No
+33,Male,HR,Senior,179,Medium,19823,4,Medium,Good,22,5,No
+25,Male,HR,Junior,180,Very High,85456,1,High,Low,43,2,Yes
+36,Female,Sales,Mid-level,189,Medium,34585,1,Low,Excellent,13,3,No
+25,Male,IT,Senior,111,High,27272,1,High,Excellent,8,4,Yes
+43,Female,Operations,Mid-level,149,Medium,36619,3,Medium,Low,1,5,Yes
+24,Female,Marketing,Junior,111,Very High,85069,1,High,Low,17,3,Yes
+60,Male,HR,Mid-level,189,Very Low,54895,5,Medium,Outstanding,12,7,No
+32,Female,IT,Senior,132,Very High,13720,4,Low,Outstanding,4,5,No
+40,Female,Sales,Senior,117,Very Low,29267,5,Medium,Good,13,5,No
+32,Female,HR,Mid-level,161,Low,30696,1,Very High,Good,31,6,No
+34,Female,Sales,Junior,195,Very High,44968,3,Very High,Good,41,7,Yes
+38,Female,Marketing,Mid-level,161,Very High,68364,3,Low,Outstanding,7,8,No
+47,Male,Operations,Junior,137,High,33345,4,High,Excellent,23,9,No
+58,Female,HR,Mid-level,166,Medium,66567,5,Very High,Outstanding,24,4,No
+53,Female,HR,Senior,137,Very Low,71607,2,High,Low,5,5,Yes
+54,Female,Marketing,Junior,166,Very Low,34385,5,High,Outstanding,5,5,No
+28,Female,IT,Junior,203,High,98658,1,Medium,Outstanding,17,8,Yes
+37,Female,Operations,Junior,160,High,81900,2,Very High,Excellent,30,9,Yes
+34,Male,HR,Senior,100,Medium,78244,3,Medium,Outstanding,9,7,Yes
+32,Female,Operations,Mid-level,193,Medium,80425,4,High,Good,6,5,No
+57,Male,HR,Senior,144,Very High,88518,4,Low,Excellent,25,3,No
+35,Male,Operations,Junior,195,Low,97844,3,High,Outstanding,19,1,No
+58,Male,Sales,Mid-level,127,Medium,42919,1,Medium,Outstanding,16,9,No
+58,Male,HR,Senior,120,High,67196,3,Very Low,Good,21,5,Yes
+24,Female,Operations,Junior,112,Medium,89401,1,Low,Low,2,9,Yes
+45,Male,IT,Junior,136,Very Low,10495,2,High,Low,10,4,Yes
+52,Male,Sales,Senior,199,Low,59755,3,Very High,Outstanding,16,5,Yes
+31,Female,Sales,Senior,106,Very High,77684,1,High,Good,37,4,Yes
+34,Female,IT,Senior,131,Very Low,43324,2,Low,Outstanding,15,2,Yes
+60,Female,Operations,Junior,173,Very Low,93929,3,Low,Good,13,1,Yes
+37,Male,Marketing,Senior,152,Low,16552,4,High,Excellent,13,8,No
+53,Female,IT,Junior,188,Very High,66272,3,Very High,Low,32,4,Yes
+58,Female,Operations,Senior,178,High,50853,5,Very High,Outstanding,45,5,No
+44,Male,IT,Junior,113,Very High,42924,3,Very High,Excellent,47,6,Yes
+60,Female,IT,Junior,205,Medium,89462,5,Medium,Low,46,8,No
+28,Female,HR,Mid-level,122,Very Low,33889,2,Medium,Excellent,8,8,Yes
+42,Female,Operations,Senior,169,Medium,69675,3,Medium,Excellent,43,7,Yes
+37,Female,Marketing,Senior,187,High,88591,2,Very High,Low,18,4,Yes
+49,Male,HR,Junior,183,Medium,85190,2,Low,Excellent,36,6,No
+27,Female,IT,Junior,193,Very High,37634,1,Medium,Low,26,4,Yes
+48,Female,IT,Junior,185,Medium,47363,2,High,Low,10,7,Yes
+48,Male,IT,Mid-level,142,High,73752,2,Low,Good,31,1,No
+41,Female,Operations,Mid-level,127,High,87004,3,Very High,Excellent,33,5,No
+31,Male,Operations,Junior,107,High,66398,3,Medium,Low,29,4,No
+37,Female,HR,Senior,100,Very High,50718,4,Very High,Excellent,5,7,No
+55,Male,Marketing,Senior,136,High,92916,1,High,Good,13,9,Yes
+56,Male,HR,Mid-level,162,Very Low,41870,2,High,Good,1,5,Yes
+46,Male,Sales,Mid-level,121,High,47394,1,Very Low,Excellent,23,4,No
+38,Male,IT,Junior,179,Medium,67057,5,Very High,Low,40,9,No
+56,Female,IT,Senior,130,Medium,89795,2,High,Excellent,3,5,No
+48,Male,IT,Junior,205,Medium,95409,1,Low,Outstanding,3,9,Yes
+40,Female,HR,Mid-level,134,Very High,23016,4,Very High,Outstanding,7,8,No
+56,Male,HR,Senior,178,Medium,57137,4,Low,Low,36,4,No
+25,Male,IT,Senior,114,Very High,10153,2,Very High,Low,35,7,Yes
+37,Male,HR,Mid-level,159,Very High,22853,5,Low,Good,15,5,No
+29,Female,Operations,Junior,145,High,22379,4,Very High,Low,40,4,No
+29,Male,Operations,Junior,149,Very Low,25792,4,Very High,Good,3,5,No
+26,Female,HR,Senior,147,High,48367,5,Very High,Outstanding,29,5,No
+30,Female,IT,Mid-level,115,High,28100,1,Medium,Outstanding,30,9,Yes
+31,Female,HR,Senior,188,Very High,78456,4,Medium,Low,39,9,No
+38,Female,HR,Mid-level,155,Very High,26049,3,High,Low,18,6,No
+52,Female,HR,Junior,158,Medium,15786,4,Medium,Good,11,4,No
+56,Female,Sales,Mid-level,128,Medium,79904,1,Very High,Good,43,2,Yes
+53,Female,Operations,Junior,170,High,45699,1,Very High,Good,49,3,No
+50,Female,Marketing,Mid-level,176,Low,62691,2,Very High,Good,38,2,Yes
+59,Female,Marketing,Senior,117,Low,47040,3,High,Low,40,5,Yes
+52,Male,Sales,Junior,101,Medium,67986,1,Very High,Good,1,6,Yes
+56,Male,HR,Senior,107,Low,48762,5,Very High,Excellent,29,5,No
+60,Male,Sales,Senior,174,Medium,38600,3,Very High,Good,10,2,Yes
+50,Male,Sales,Junior,196,Very High,34810,3,Very Low,Outstanding,28,5,No
+56,Male,IT,Junior,163,High,100703,5,Very High,Low,31,9,No
+27,Female,Operations,Senior,137,Very Low,97347,4,Very High,Excellent,19,4,No
+45,Female,Marketing,Senior,147,High,67204,5,Very High,Excellent,3,2,No
+25,Female,HR,Senior,126,Medium,30085,5,Very High,Good,36,3,No
+33,Female,Marketing,Senior,119,Medium,56854,4,Very High,Low,43,3,No
+28,Female,Marketing,Junior,111,High,84797,4,Very High,Excellent,15,9,No
+33,Female,Operations,Junior,142,Medium,94269,4,High,Good,33,4,No
+56,Female,Marketing,Senior,160,Low,54779,4,Medium,Low,41,1,No
+36,Male,Marketing,Mid-level,130,Low,66207,4,High,Outstanding,43,1,No
+54,Male,Sales,Mid-level,190,Medium,48980,5,Very High,Excellent,45,7,No
+59,Male,Operations,Junior,195,Medium,71117,2,Low,Good,26,7,No
+47,Male,IT,Senior,170,Low,29141,2,Very Low,Excellent,16,2,Yes
+38,Female,HR,Senior,173,Medium,24344,1,Very High,Excellent,36,9,Yes
+52,Female,Marketing,Junior,166,Medium,30896,2,Very High,Excellent,33,9,No
+31,Female,HR,Mid-level,190,High,104353,2,Very High,Good,20,5,Yes
+28,Male,IT,Mid-level,144,Very Low,39813,5,Medium,Good,13,3,No
+52,Female,HR,Mid-level,194,Low,99431,4,High,Outstanding,33,3,No
+27,Female,IT,Junior,124,High,75679,4,High,Outstanding,5,3,No
+35,Female,Sales,Mid-level,115,Very Low,20681,5,Very High,Excellent,37,6,No
+25,Male,Marketing,Junior,112,Medium,82903,2,Low,Excellent,14,4,Yes
+50,Female,IT,Junior,144,Medium,13228,5,Low,Outstanding,27,8,No
+54,Male,HR,Senior,174,High,19582,1,Very Low,Outstanding,23,5,No
+59,Male,Marketing,Mid-level,158,Medium,93683,4,Very High,Excellent,14,1,No
+59,Male,Sales,Junior,120,Very High,21397,3,Very High,Low,40,9,Yes
+49,Male,Marketing,Mid-level,153,High,53799,1,High,Excellent,4,1,No
+50,Female,IT,Mid-level,184,Very Low,52011,1,Medium,Low,39,6,Yes
+28,Male,Sales,Senior,129,High,89183,5,Very Low,Outstanding,19,1,No
+43,Male,HR,Mid-level,147,Low,54264,2,Low,Good,47,3,No
+34,Female,Sales,Senior,134,High,52317,4,Low,Good,4,5,No
+33,Female,Sales,Junior,185,Medium,62914,3,High,Outstanding,30,7,No
+29,Male,Operations,Mid-level,137,Medium,94633,1,Low,Outstanding,19,8,Yes
+31,Female,Sales,Junior,130,Very High,55254,3,High,Good,31,9,Yes
+46,Male,Sales,Mid-level,177,Very High,55096,2,Very High,Excellent,31,6,No
+49,Male,Marketing,Junior,123,Very High,63785,2,Medium,Good,9,9,Yes
+35,Male,HR,Mid-level,148,Very Low,62344,3,Very Low,Excellent,13,8,No
+49,Male,Marketing,Mid-level,195,Very High,97643,4,Very Low,Good,14,9,No
+36,Female,Marketing,Mid-level,199,Very Low,83546,2,Very High,Low,46,4,Yes
+41,Male,IT,Mid-level,141,Very High,81091,3,Very High,Low,10,9,Yes
+48,Female,Marketing,Mid-level,154,Very Low,80603,1,Very High,Low,48,7,No
+56,Female,Operations,Mid-level,178,High,43412,3,Medium,Excellent,31,5,No
+35,Female,Operations,Mid-level,157,High,66658,3,Very High,Excellent,37,5,Yes
+59,Female,IT,Mid-level,208,Medium,64549,5,High,Outstanding,23,1,No
+27,Male,HR,Mid-level,102,Very Low,21549,2,Low,Outstanding,27,2,Yes
+28,Female,HR,Junior,179,Low,86216,4,Low,Good,6,3,No
+60,Male,Marketing,Senior,168,Medium,40739,4,Medium,Good,26,8,No
+31,Female,Marketing,Mid-level,184,High,36209,5,Low,Excellent,2,6,No
+51,Female,Marketing,Senior,109,Very Low,97968,4,Very High,Low,45,5,No
+54,Male,HR,Mid-level,182,Very High,30116,3,High,Excellent,13,1,Yes
+32,Male,Sales,Mid-level,124,Low,30045,5,Very High,Outstanding,19,9,No
+52,Male,Operations,Junior,167,High,41327,1,Low,Outstanding,1,3,Yes
+37,Female,Sales,Junior,160,Medium,50709,2,Very High,Excellent,40,3,Yes
+45,Female,Sales,Senior,128,Very Low,53617,2,Medium,Excellent,32,2,Yes
+34,Male,HR,Junior,118,Low,70139,2,Very High,Excellent,22,4,Yes
+46,Male,Sales,Junior,142,Very Low,36905,3,Low,Low,48,2,No
+24,Male,IT,Senior,175,Very High,79148,1,Low,Outstanding,29,9,Yes
+60,Male,Marketing,Junior,173,Medium,87603,5,Very High,Excellent,2,7,No
+44,Female,IT,Mid-level,170,Very Low,57919,5,Very High,Outstanding,40,8,No
+49,Male,Operations,Senior,142,High,93521,2,Very High,Good,38,3,Yes
+59,Male,Marketing,Senior,124,Medium,93400,1,Very High,Excellent,48,6,No
+46,Male,Sales,Mid-level,119,High,98150,1,Very High,Low,11,6,Yes
+24,Male,Operations,Junior,147,Very Low,68446,1,Very High,Outstanding,17,1,Yes
+38,Female,Marketing,Senior,182,Medium,67428,4,Very High,Excellent,43,6,No
+44,Male,Sales,Senior,186,High,62894,4,Very Low,Outstanding,8,3,No
+32,Female,IT,Mid-level,133,Very High,91149,2,Medium,Good,22,3,No
+32,Male,Marketing,Mid-level,110,Very High,16447,1,High,Excellent,4,3,No
+33,Male,Sales,Junior,197,Very Low,20499,1,Very Low,Good,11,8,Yes
+49,Female,IT,Senior,164,Medium,54041,5,Very High,Good,8,5,No
+58,Male,Operations,Junior,127,Low,41315,5,Very Low,Outstanding,9,4,No
+48,Female,Operations,Junior,168,Medium,16299,2,Very High,Outstanding,26,9,Yes
+49,Female,Operations,Mid-level,162,Very High,19994,1,Very High,Low,2,9,No
+34,Male,Operations,Senior,158,High,96163,2,Very High,Outstanding,16,1,Yes
+25,Female,HR,Senior,104,Low,17489,5,Very High,Outstanding,31,2,No
+30,Female,Marketing,Senior,150,Very Low,42355,5,High,Outstanding,6,8,No
+41,Female,Marketing,Mid-level,120,Low,83805,4,Low,Good,21,5,No
+50,Female,HR,Mid-level,111,Very Low,78367,2,High,Low,26,7,Yes
+57,Female,Sales,Mid-level,149,Low,87355,2,Low,Excellent,19,1,Yes
+50,Female,Sales,Mid-level,103,Very Low,97173,1,Medium,Outstanding,28,5,No
+40,Female,Operations,Mid-level,141,Very Low,11996,1,Very High,Good,8,3,Yes
+47,Female,IT,Senior,193,Low,59387,4,Medium,Outstanding,14,2,No
+48,Male,Sales,Junior,137,Low,13089,3,Low,Low,24,2,Yes
+30,Male,IT,Senior,134,Very Low,30659,3,Low,Low,48,9,Yes
+29,Female,Marketing,Junior,113,Very High,55178,3,Very High,Low,44,4,Yes
+47,Male,IT,Mid-level,184,Low,96268,2,Very High,Low,37,4,Yes
+56,Female,Marketing,Junior,131,Medium,95042,2,Low,Excellent,26,7,Yes
+52,Female,HR,Senior,110,High,80726,5,Very High,Good,31,2,No
+45,Male,HR,Senior,160,Very Low,85111,2,Medium,Good,32,3,No
+49,Female,Operations,Junior,117,Very Low,44565,2,Very High,Low,41,3,Yes
+51,Female,Sales,Mid-level,126,High,99242,2,High,Good,2,6,Yes
+44,Female,Operations,Mid-level,154,Very High,37884,4,Low,Outstanding,25,3,No
+30,Female,Marketing,Senior,153,High,32199,2,Very High,Excellent,44,5,Yes
+40,Male,Operations,Junior,181,Low,75038,1,Medium,Low,2,4,No
+43,Female,IT,Mid-level,196,High,72786,1,Medium,Low,42,3,Yes
+43,Female,Marketing,Mid-level,174,Very Low,64294,5,High,Outstanding,1,8,No
+45,Female,HR,Senior,120,High,88015,4,Very High,Excellent,36,3,No
+51,Male,Sales,Mid-level,143,Medium,44178,1,High,Good,12,6,Yes
+30,Female,Marketing,Junior,104,Low,22665,4,Very High,Excellent,9,7,No
+24,Male,Marketing,Senior,186,High,15534,4,Very High,Outstanding,36,7,No
+55,Male,IT,Senior,150,Very Low,46132,5,High,Excellent,41,2,No
+36,Female,Sales,Junior,158,Low,51110,4,Low,Outstanding,28,3,No
+53,Female,HR,Senior,188,Very Low,73754,2,Medium,Good,38,4,No
+46,Male,Marketing,Mid-level,153,Very High,78580,4,Very High,Good,33,7,No
+42,Female,Marketing,Mid-level,173,Medium,37469,5,Medium,Low,42,2,No
+55,Male,IT,Junior,131,Very High,74016,5,Very High,Good,46,3,No
+53,Male,Operations,Mid-level,182,Medium,61233,5,Medium,Excellent,22,7,No
+52,Female,HR,Junior,164,High,81708,1,Low,Outstanding,25,7,Yes
+52,Female,Sales,Junior,163,Low,73232,2,Low,Low,18,3,No
+53,Male,Marketing,Mid-level,170,High,101437,1,Low,Excellent,6,1,No
+39,Male,Marketing,Junior,103,Medium,44409,3,Low,Outstanding,18,3,Yes
+42,Male,HR,Mid-level,164,Medium,34324,2,Low,Good,16,5,No
+41,Male,Operations,Senior,114,Medium,18738,4,Medium,Good,15,7,No
+24,Female,Marketing,Senior,175,Very Low,39054,5,Very High,Excellent,48,4,No
+37,Female,HR,Junior,121,Low,39709,3,Very High,Excellent,8,1,No
+25,Female,IT,Mid-level,195,High,100643,2,Very High,Good,13,6,Yes
+51,Female,Operations,Mid-level,146,High,10363,1,Very High,Good,43,2,Yes
+53,Female,Sales,Senior,180,Very High,25358,5,High,Outstanding,7,3,No
+27,Male,Marketing,Senior,192,Medium,18240,1,Low,Low,17,4,Yes
+24,Female,HR,Mid-level,145,Medium,82201,2,Medium,Excellent,32,6,Yes
+31,Female,IT,Junior,123,Medium,55689,2,Very High,Low,22,6,Yes
+52,Female,Sales,Senior,149,High,11936,3,Very High,Outstanding,13,7,Yes
+26,Female,HR,Junior,119,Very High,53965,4,Medium,Outstanding,47,5,No
+55,Female,HR,Junior,149,Very Low,87534,1,Medium,Outstanding,23,7,No
+33,Male,Sales,Senior,132,Low,10882,3,Very Low,Excellent,29,2,Yes
+33,Male,IT,Junior,168,Very Low,35224,5,Very Low,Good,22,1,No
+42,Male,IT,Junior,152,High,45825,4,Very High,Outstanding,1,8,No
+57,Female,Operations,Mid-level,178,Medium,85740,3,Medium,Good,29,1,Yes
